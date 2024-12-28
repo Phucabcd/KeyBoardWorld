@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">JavaNinjas💻</h1>
+<h1 align="center" style="font-weight: bold;">Keyboardworld💻</h1>
 
 <p align="center">
 <a href="#tech">Technologies</a>
@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center">Dự án JavaNinJas làm về đề tài trang bán đồ cho Làng Lá</p>
+<p align="center">Dự án Keyboardworld làm về đề tài mua bán bàn phím, chuột, tai nghe,...</p>
 
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <h2 id="technologies">💻 Công nghệ sử dụng</h2>
 
-AngularJS, Thymeleaf, Spring Boot, RestAPI, API....
+Java, Spring Boot, JSP
 
 <h2 id="colab">🤝 Thành viên</h2>
 <table>
